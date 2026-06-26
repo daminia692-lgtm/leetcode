@@ -81,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/daminia692-lgtm/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/daminia692-lgtm/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/daminia692-lgtm/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
