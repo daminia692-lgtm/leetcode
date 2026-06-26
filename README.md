@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/daminia692-lgtm/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/daminia692-lgtm/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/daminia692-lgtm/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/daminia692-lgtm/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/daminia692-lgtm/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/daminia692-lgtm/leetcode/tree/master/0904-fruit-into-baskets) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/daminia692-lgtm/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/daminia692-lgtm/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/daminia692-lgtm/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/daminia692-lgtm/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/daminia692-lgtm/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/daminia692-lgtm/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
