@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/daminia692-lgtm/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/daminia692-lgtm/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/daminia692-lgtm/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/daminia692-lgtm/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/daminia692-lgtm/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/daminia692-lgtm/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/daminia692-lgtm/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/daminia692-lgtm/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/daminia692-lgtm/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/daminia692-lgtm/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/daminia692-lgtm/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/daminia692-lgtm/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
