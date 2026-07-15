@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/daminia692-lgtm/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/daminia692-lgtm/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/daminia692-lgtm/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/daminia692-lgtm/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/daminia692-lgtm/leetcode/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/daminia692-lgtm/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
