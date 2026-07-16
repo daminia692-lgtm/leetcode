@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/daminia692-lgtm/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/daminia692-lgtm/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/daminia692-lgtm/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/daminia692-lgtm/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/daminia692-lgtm/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/daminia692-lgtm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0567-permutation-in-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/daminia692-lgtm/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/daminia692-lgtm/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/daminia692-lgtm/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/daminia692-lgtm/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/daminia692-lgtm/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/daminia692-lgtm/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/daminia692-lgtm/leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/daminia692-lgtm/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/daminia692-lgtm/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/daminia692-lgtm/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/daminia692-lgtm/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/daminia692-lgtm/leetcode/tree/master/0389-find-the-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/daminia692-lgtm/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
