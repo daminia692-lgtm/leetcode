@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/daminia692-lgtm/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/daminia692-lgtm/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/daminia692-lgtm/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/daminia692-lgtm/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/daminia692-lgtm/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daminia692-lgtm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/daminia692-lgtm/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/daminia692-lgtm/leetcode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/daminia692-lgtm/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/daminia692-lgtm/leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/daminia692-lgtm/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
