@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/daminia692-lgtm/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/daminia692-lgtm/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/daminia692-lgtm/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/daminia692-lgtm/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/daminia692-lgtm/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 ## String
