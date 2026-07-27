@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daminia692-lgtm/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/daminia692-lgtm/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/daminia692-lgtm/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/daminia692-lgtm/leetcode/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/daminia692-lgtm/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/daminia692-lgtm/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/daminia692-lgtm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
