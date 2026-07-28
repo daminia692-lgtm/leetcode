@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/daminia692-lgtm/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/daminia692-lgtm/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/daminia692-lgtm/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/daminia692-lgtm/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/daminia692-lgtm/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3174-clear-digits](https://github.com/daminia692-lgtm/leetcode/tree/master/3174-clear-digits) |
