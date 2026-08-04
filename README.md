@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/daminia692-lgtm/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/daminia692-lgtm/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [3731-find-missing-elements](https://github.com/daminia692-lgtm/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/daminia692-lgtm/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/daminia692-lgtm/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [3731-find-missing-elements](https://github.com/daminia692-lgtm/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/daminia692-lgtm/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/daminia692-lgtm/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/daminia692-lgtm/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
