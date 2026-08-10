@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/daminia692-lgtm/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/daminia692-lgtm/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/daminia692-lgtm/leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/daminia692-lgtm/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
