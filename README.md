@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/daminia692-lgtm/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/daminia692-lgtm/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/daminia692-lgtm/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/daminia692-lgtm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/daminia692-lgtm/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/daminia692-lgtm/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/daminia692-lgtm/leetcode/tree/master/0057-insert-interval) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/daminia692-lgtm/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/daminia692-lgtm/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/daminia692-lgtm/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/daminia692-lgtm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/daminia692-lgtm/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/daminia692-lgtm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/daminia692-lgtm/leetcode/tree/master/0189-rotate-array) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/daminia692-lgtm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/daminia692-lgtm/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daminia692-lgtm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/daminia692-lgtm/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/daminia692-lgtm/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/daminia692-lgtm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/daminia692-lgtm/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/daminia692-lgtm/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/daminia692-lgtm/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/daminia692-lgtm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/daminia692-lgtm/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/daminia692-lgtm/leetcode/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
