@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/daminia692-lgtm/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/daminia692-lgtm/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/daminia692-lgtm/leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/daminia692-lgtm/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/daminia692-lgtm/leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/daminia692-lgtm/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/daminia692-lgtm/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/daminia692-lgtm/leetcode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/daminia692-lgtm/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/daminia692-lgtm/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/daminia692-lgtm/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/daminia692-lgtm/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/daminia692-lgtm/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/daminia692-lgtm/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/daminia692-lgtm/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/daminia692-lgtm/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/daminia692-lgtm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
