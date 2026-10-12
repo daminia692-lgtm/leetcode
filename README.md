@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/daminia692-lgtm/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/daminia692-lgtm/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/daminia692-lgtm/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/daminia692-lgtm/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/daminia692-lgtm/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/daminia692-lgtm/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/daminia692-lgtm/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/daminia692-lgtm/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
 |  |
 | ------- |
