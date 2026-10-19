@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/daminia692-lgtm/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/daminia692-lgtm/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/daminia692-lgtm/leetcode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/daminia692-lgtm/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/daminia692-lgtm/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/daminia692-lgtm/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/daminia692-lgtm/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/daminia692-lgtm/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/daminia692-lgtm/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/daminia692-lgtm/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/daminia692-lgtm/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/daminia692-lgtm/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/daminia692-lgtm/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/daminia692-lgtm/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
