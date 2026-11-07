@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/daminia692-lgtm/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/daminia692-lgtm/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2235-add-two-integers](https://github.com/daminia692-lgtm/leetcode/tree/master/2235-add-two-integers) |
 | [2364-count-number-of-bad-pairs](https://github.com/daminia692-lgtm/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/daminia692-lgtm/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/daminia692-lgtm/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
