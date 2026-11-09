@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/daminia692-lgtm/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/daminia692-lgtm/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/daminia692-lgtm/leetcode/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/daminia692-lgtm/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/daminia692-lgtm/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/daminia692-lgtm/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/daminia692-lgtm/leetcode/tree/master/1025-divisor-game) |
