@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/daminia692-lgtm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/daminia692-lgtm/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/daminia692-lgtm/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/daminia692-lgtm/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/daminia692-lgtm/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/daminia692-lgtm/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/daminia692-lgtm/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/daminia692-lgtm/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/daminia692-lgtm/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/daminia692-lgtm/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/daminia692-lgtm/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/daminia692-lgtm/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/daminia692-lgtm/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/daminia692-lgtm/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/daminia692-lgtm/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/daminia692-lgtm/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/daminia692-lgtm/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/daminia692-lgtm/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/daminia692-lgtm/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
