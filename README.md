@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/daminia692-lgtm/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/daminia692-lgtm/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/daminia692-lgtm/leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/daminia692-lgtm/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/daminia692-lgtm/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/daminia692-lgtm/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/daminia692-lgtm/leetcode/tree/master/0141-linked-list-cycle) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/daminia692-lgtm/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/daminia692-lgtm/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/daminia692-lgtm/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/daminia692-lgtm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/daminia692-lgtm/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/daminia692-lgtm/leetcode/tree/master/0206-reverse-linked-list) |
